@@ -1,4 +1,4 @@
-
+/**** poznámka máme rádi knedlíky ****/
 import {version} from '../package.json';
 export {version};
 
